@@ -118,6 +118,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
     private String iscalculated(String existedtext,String s){
-
+        return null;
     }
 }
